@@ -1,0 +1,15 @@
+C:\Users\Eemil.Korkka\Tiedostot\Git-test\src\obj\Debug\net6.0\src.csproj.AssemblyReference.cache
+C:\Users\Eemil.Korkka\Tiedostot\Git-test\src\obj\Debug\net6.0\src.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eemil.Korkka\Tiedostot\Git-test\src\obj\Debug\net6.0\src.AssemblyInfoInputs.cache
+C:\Users\Eemil.Korkka\Tiedostot\Git-test\src\obj\Debug\net6.0\src.AssemblyInfo.cs
+C:\Users\Eemil.Korkka\Tiedostot\Git-test\src\obj\Debug\net6.0\src.csproj.CoreCompileInputs.cache
+C:\Users\Eemil.Korkka\Tiedostot\Git-test\src\bin\Debug\net6.0\src.exe
+C:\Users\Eemil.Korkka\Tiedostot\Git-test\src\bin\Debug\net6.0\src.deps.json
+C:\Users\Eemil.Korkka\Tiedostot\Git-test\src\bin\Debug\net6.0\src.runtimeconfig.json
+C:\Users\Eemil.Korkka\Tiedostot\Git-test\src\bin\Debug\net6.0\src.dll
+C:\Users\Eemil.Korkka\Tiedostot\Git-test\src\bin\Debug\net6.0\ref\src.dll
+C:\Users\Eemil.Korkka\Tiedostot\Git-test\src\bin\Debug\net6.0\src.pdb
+C:\Users\Eemil.Korkka\Tiedostot\Git-test\src\obj\Debug\net6.0\src.dll
+C:\Users\Eemil.Korkka\Tiedostot\Git-test\src\obj\Debug\net6.0\ref\src.dll
+C:\Users\Eemil.Korkka\Tiedostot\Git-test\src\obj\Debug\net6.0\src.pdb
+C:\Users\Eemil.Korkka\Tiedostot\Git-test\src\obj\Debug\net6.0\src.genruntimeconfig.cache
