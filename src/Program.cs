@@ -7,7 +7,9 @@ namespace Test
         public string color;
         public int modelYear;
         public int numberOfSeats;
-
+        
+        // This is a comment
+        
         public Car(string color, int modelYear, int numberOfSeats) 
         {
             this.color = color;
