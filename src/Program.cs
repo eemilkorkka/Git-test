@@ -7,6 +7,7 @@ namespace Test
         public string color;
         public int modelYear;
         public int numberOfSeats;
+        private float speed;
         
         // This is a comment
         
@@ -15,6 +16,11 @@ namespace Test
             this.color = color;
             this.modelYear = modelYear;
             this.numberOfSeats = numberOfSeats;
+        }
+
+        public void Accelerate() 
+        {
+            speed += 5;
         }
     }
     class Program 
