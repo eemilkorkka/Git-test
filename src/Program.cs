@@ -4,10 +4,10 @@ namespace Test
 {
     class Car 
     {
-        public string color;
-        public int modelYear;
-        public int numberOfSeats;
         private float speed;
+        private string color;
+        private int modelYear;
+        private int numberOfSeats;
         
         // This is a comment
         
@@ -21,6 +21,36 @@ namespace Test
         public void Accelerate() 
         {
             speed += 5;
+        {
+
+        public string GetColor() 
+        {
+            return color;
+        }
+
+        public int GetYear() 
+        {
+            return modleYear;
+        }
+
+        public int NumberOfSeats() 
+        {
+            return numberOfSeats;
+        }
+
+        public void SetColor(string color) 
+        {
+            this.color = color; 
+        }
+
+        public void SetYear(int modelYear) 
+        {
+            this.modleYear = modelYear; 
+        }
+
+        public void SetNumberOfSeats(int numberOfSeats) 
+        {
+            this.numberOfSeats = numberOfSeats;
         }
     }
     class Program 
@@ -29,7 +59,7 @@ namespace Test
         {
             Car car = new Car("Red", 2005, 4);
 
-            Console.WriteLine("Car color: " + car.color + " Car model: " + car.modelYear + " Number of seats: " + car.numberOfSeats);
+            Console.WriteLine("Car color: " + car.GetColor() + " Car model: " + car.GetYear() + " Number of seats: " + car.GetNumberOfSeats());
         }
     }
 }
